@@ -42,3 +42,7 @@ Recommended Version : 2.4.1
 **Yes, you can contribute to our games!**
 
 You will need to download the games, then add your changes, then email it to dnkdevelopers@outlook.com!
+
+___
+
+*README v.1.0.0 Updates 5 April 2021*
